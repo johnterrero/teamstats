@@ -1,0 +1,5 @@
+nelly:
+  name: Nelly Terrero
+  email: nelly.terrero@gmail.com
+  password_digest: <%= User.digest('ddadmr12') %>
+  
